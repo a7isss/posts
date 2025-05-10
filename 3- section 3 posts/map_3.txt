@@ -1,0 +1,60 @@
+### Map of Posts for Section 3
+1. **From `section_3_full_articles_1_to_10.txt`**
+    - _Post 1_: منصة مهنية رقم 1: الجمعية الأمريكية للمهندسين المدنيين (ASCE)
+    - _Post 2_: منصة مهنية رقم 2: ICE البريطانية (Institution of Civil Engineers)
+    - _Post 3_: منصة مهنية رقم 3: الجمعية الوطنية للمهندسين المحترفين (NSPE)
+    - _Post 4_: منصة مهنية رقم 4: منتدى Eng-Tips للمهندسين
+    - _Post 5_: منصة مهنية رقم 5: LinkedIn ومجموعاته الهندسية
+    - _Post 6_: منصة مهنية رقم 6: Urban Engineers Blog
+    - _Post 7_: منصة مهنية رقم 7: ASCE Civil Engineering Source
+    - _Post 8_: منصة مهنية رقم 8: TheConstructor موقع الهندسة المدنية
+    - _Post 9_: منصة مهنية رقم 9: Eng-Tips :: Discussions Forum
+    - _Post 10_: منصة مهنية رقم 10: هندسة الإنشاءات رقمية
+
+2. **From `section_3_full_articles_11_to_20.txt`**
+    - _Post 11_: منصة مهنية رقم 11: منصة PMI – معهد إدارة المشاريع
+    - _Post 12_: منصة مهنية رقم 12: LinkedIn Learning للمهندسين
+    - _Post 13_: منصة مهنية رقم 13: منصة Coursera للدورات الهندسية
+    - _Post 14_: منصة مهنية رقم 14: edX – تعلم هندسي من جامعات عالمية
+    - _Post 15_: منصة مهنية رقم 15: منصة Engineering.com
+    - _Post 16_: منصة مهنية رقم 16: SME – Society of Manufacturing Engineers
+    - _Post 17_: منصة مهنية رقم 17: TEC-Ease لتعليم GD&T
+    - _Post 18_: منصة مهنية رقم 18: منصة GlobalSpec للمهندسين
+    - _Post 19_: منصة مهنية رقم 19: برامج Autodesk للهندسة الميكانيكية والمدنية
+    - _Post 20_: منصة مهنية رقم 20: الموقع الأكاديمي الأضخم
+
+3. **From `section_3_full_articles_21_to_30.txt`**
+    - _Post 21_: منصة مهنية رقم 21: منصة ResearchGate للمهندسين والباحثين
+    - _Post 22_: منصة مهنية رقم 22: منصة Academia.edu
+    - _Post 23_: منصة مهنية رقم 23: منتدى Reddit – subreddits الهندسية
+    - _Post 24_: منصة مهنية رقم 24: منصة The Constructor للهندسة المدنية
+    - _Post 25_: منصة مهنية رقم 25: منصة Engineering360 من GlobalSpec
+    - _Post 26_: منصة مهنية رقم 26: منصة Grabcad للمهندسين الميكانيكيين
+    - _Post 27_: منصة مهنية رقم 27: منصة Edraak العربية
+    - _Post 28_: منصة مهنية رقم 28: منصة FutureLearn للهندسة والإدارة
+    - _Post 29_: منصة مهنية رقم 29: منصة SEBoK قاعدة معارف الأنظمة الهندسية
+    - _Post 30_: منصة مهنية رقم 30: مناقشات الخبراء عبر شبكة StackExchange
+
+4. **From `section_3_full_articles_31_to_40.txt`**
+    - _Post 31_: منصة مهنية رقم 31: منصة Autodesk University
+    - _Post 32_: منصة مهنية رقم 32: LearnCivilEngineering.com
+    - _Post 33_: منصة مهنية رقم 33: ProjectManagement.com
+    - _Post 34_: منصة مهنية رقم 34: MIT OpenCourseWare
+    - _Post 35_: منصة مهنية رقم 35: Institution of Structural Engineers (IStructE)
+    - _Post 36_: منصة مهنية رقم 36: ICE Knowledge Hub
+    - _Post 37_: منصة مهنية رقم 37: American Concrete Institute (ACI)
+    - _Post 38_: منصة مهنية رقم 38: Construction Management Association of America (CMAA)
+    - _Post 39_: منصة مهنية رقم 39: دورات في التصميم البيئي والتنفيذي
+    - _Post 40_: منصة مهنية رقم 40: توثيق الخبرة المستدامة للأعمال
+
+5. **From `section_3_full_articles_41_to_50.txt`**
+    - _Post 41_: منصة مهنية رقم 41: منصة Structural Guide
+    - _Post 42_: منصة مهنية رقم 42: Academia Stack Exchange
+    - _Post 43_: منصة مهنية رقم 43: منصة SpringerLink للأبحاث التقنية
+    - _Post 44_: منصة مهنية رقم 44: منصة AACE International
+    - _Post 45_: منصة مهنية رقم 45: منصة GineersNow
+    - _Post 46_: منصة مهنية رقم 46: منصة OpenLearn من الجامعة المفتوحة
+    - _Post 47_: منصة مهنية رقم 47: منصة MyEngineeringBuddy
+    - _Post 48_: منصة مهنية رقم 48: مقالات رقمية حول الإنشاءات
+    - _Post 49_: منصة مهنية رقم 49: منتدى يتيح نقاش احترافي لجميع التخصصات
+    - _Post 50_: منصة مهنية رقم 50: ملتقى EngineeringWorld للتطوير والابتكار
